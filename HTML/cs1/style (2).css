@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    justify-content: right;
+}
+
+.container {
+    color: blue;
+    margin: 20px;
+}
+
+.box0{
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
